@@ -21,8 +21,8 @@ This project uses a two-stage **curriculum learning** strategy to fine-tune an L
 
 ```
 
-├── train\_stage1.py          # Stage 1 fine-tuning: labels only
-├── train\_stage2.py          # Stage 2 fine-tuning: KPI-aware prompts
+├── Finetuning_stage1.py          # Stage 1 fine-tuning: labels only
+├── Finetuning__stage2.py          # Stage 2 fine-tuning: KPI-aware prompts
 ├── test.py                  # Final submission/inference generator
 ├── kpi\_mappings.pkl         # Label-to-KPI relevance map
 ├── final\_model/             # Checkpoint after Stage 1
