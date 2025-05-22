@@ -1,6 +1,6 @@
 # 📶 Curriculum-Learning LLM for KPI-Based Network Error Diagnosis
 
-[IndabaX Tunisia 2025 Challenge 2 (Zindi)](https://zindi.africa/competitions/indabax-tunisia-2025-challenge-2/leaderboard)**  
+[IndabaX Tunisia 2025 Challenge 2 (Zindi)](https://zindi.africa/competitions/indabax-tunisia-2025-challenge-2/leaderboard)
 🔬 Powered by IEEE Sup’Com SB, Orange & InstaDeep  
 🎯 Task: Predict improvement solutions for mobile network issues using KPI data and error labels.
 
